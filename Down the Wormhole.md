@@ -7,7 +7,7 @@ After diving through the wormhole, you find yourself in front of a rabbit hole. 
 
 https://niccgetsspooky.xyz/r/a/b/b/i/t/h/o/l/e/rabbit-hole.svg
 
-# on the website there is a huge base64 string
+# on the website there is a huge base32 string
 ![grafik](https://github.com/MoaathOudeh/spookyCTF/assets/127448426/421868ec-139c-48b5-af42-a44797118f58)
 
 this is basically zip files (in a look, hence wormhole)
