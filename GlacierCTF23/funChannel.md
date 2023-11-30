@@ -11,7 +11,7 @@ author: Xer0
 nc chall.glacierctf.com 13383
 
 # Solve:
-The challenge lets us use 3 syscalls only: read, getdents and openat.
+The challenge lets us use 3 syscalls only: read, getdents and openat. Additionally the shellcode cant extend the length of 0x7c Bytes.
 To solve the challenge we need to:
 * leak the filename
 * read filename and leak flag.
